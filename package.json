@@ -117,7 +117,7 @@
     "lodash": "^4.13.1",
     "minimist": "^1.2.0",
     "moment": "^2.13.0",
-    "node-fetch": "^1.6.0",
+    "node-fetch": "^2.6.1",
     "node-forge": "^0.7.1",
     "object-hash": "^1.2.0",
     "opn": "^5.0.0",
