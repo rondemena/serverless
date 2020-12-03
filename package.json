@@ -118,7 +118,7 @@
     "minimist": "^1.2.0",
     "moment": "^2.13.0",
     "node-fetch": "^1.6.0",
-    "node-forge": "^0.7.1",
+    "node-forge": "^0.10.0",
     "object-hash": "^1.2.0",
     "opn": "^5.0.0",
     "promise-queue": "^2.2.3",
